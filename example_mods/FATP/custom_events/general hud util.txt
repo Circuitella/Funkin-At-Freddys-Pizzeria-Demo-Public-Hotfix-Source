@@ -1,0 +1,7 @@
+value1 bs
+show -shows hud
+hide -hides
+midhide -alpha of 0.2
+transition -funny spin
+transitionend -funny end spin thing
+show mid -shows after hidemid

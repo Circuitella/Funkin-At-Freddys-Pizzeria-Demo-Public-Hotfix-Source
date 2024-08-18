@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"its-me",
+			"golden",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"confront",
+			"afton",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"split",
+			"fleegle",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Funkin5",
+			"bear5",
+			[
+				45,
+				75,
+				163
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "fucking how",
+	"weekName": "FNAF freeplay Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

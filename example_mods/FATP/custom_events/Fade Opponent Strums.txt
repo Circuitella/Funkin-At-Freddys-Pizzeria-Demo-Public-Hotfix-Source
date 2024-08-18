@@ -1,0 +1,4 @@
+Fade the player strums
+
+Val 1: Alpha
+Val 2: Time

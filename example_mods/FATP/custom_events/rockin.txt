@@ -1,0 +1,3 @@
+value 1 shit
+slidetotheleft - makes bonnie go away
+shutdoor - shakes screen, used at the part with the door sound

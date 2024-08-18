@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Rockin",
+			"bonnie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Power",
+			"freddy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "fnaf1",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Funkin At Fazbear's Pizza (DEMO)",
+	"weekName": "FATP",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

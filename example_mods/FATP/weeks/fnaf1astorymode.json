@@ -1,0 +1,59 @@
+{
+	"storyName": "freddy fazbear's pizza (1993)",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "menu_fnaf1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"rockin",
+			"bonnie",
+			[
+				115,
+				135,
+				255
+			]
+		],
+		[
+			"feast",
+			"chica",
+			[
+				255,
+				215,
+				0
+			]
+		],
+		[
+			"landlubber",
+			"foxy",
+			[
+				255,
+				80,
+				115
+			]
+		],
+		[
+			"power",
+			"freddy",
+			[
+				255,
+				135,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "fnaf1",
+	"hiddenUntilUnlocked": false
+}

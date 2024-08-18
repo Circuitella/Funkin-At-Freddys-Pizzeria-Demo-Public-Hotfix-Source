@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Foxy.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Foxy Down0000" x="100" y="100" width="67" height="39" frameX="-1" frameY="0" frameWidth="69" frameHeight="39"/>
+	<SubTexture name="Foxy Down0001" x="267" y="100" width="68" height="23" frameX="0" frameY="-16" frameWidth="69" frameHeight="39"/>
+	<SubTexture name="Foxy Down0002" x="435" y="100" width="68" height="18" frameX="-1" frameY="-20" frameWidth="69" frameHeight="39"/>
+	<SubTexture name="Foxy Idle0000" x="603" y="100" width="68" height="127" frameX="0" frameY="0" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Idle0001" x="771" y="100" width="68" height="108" frameX="0" frameY="-19" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Idle0002" x="939" y="100" width="68" height="90" frameX="0" frameY="-37" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Idle0003" x="1107" y="100" width="68" height="71" frameX="0" frameY="-55" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Idle0004" x="1275" y="100" width="68" height="53" frameX="0" frameY="-73" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Idle0005" x="1443" y="100" width="68" height="34" frameX="0" frameY="-92" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Idle0006" x="1275" y="100" width="68" height="53" frameX="0" frameY="-74" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Idle0007" x="1107" y="100" width="68" height="71" frameX="0" frameY="-56" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Idle0008" x="939" y="100" width="68" height="90" frameX="0" frameY="-38" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Idle0009" x="771" y="100" width="68" height="108" frameX="0" frameY="-20" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Idle0010" x="603" y="100" width="68" height="127" frameX="0" frameY="0" frameWidth="68" frameHeight="128"/>
+	<SubTexture name="Foxy Right0000" x="1611" y="100" width="169" height="127" frameX="-3" frameY="0" frameWidth="283" frameHeight="128"/>
+	<SubTexture name="Foxy Right0001" x="100" y="327" width="230" height="127" frameX="-1" frameY="0" frameWidth="283" frameHeight="128"/>
+	<SubTexture name="Foxy Right0002" x="430" y="327" width="283" height="127" frameX="0" frameY="-1" frameWidth="283" frameHeight="128"/>
+	<SubTexture name="Foxy Up0000" x="813" y="327" width="67" height="241" frameX="0" frameY="-141" frameWidth="68" frameHeight="385"/>
+	<SubTexture name="Foxy Up0001" x="980" y="327" width="68" height="307" frameX="0" frameY="-76" frameWidth="68" frameHeight="385"/>
+	<SubTexture name="Foxy Up0002" x="1148" y="327" width="67" height="385" frameX="0" frameY="0" frameWidth="68" frameHeight="385"/>
+	<SubTexture name="FoxyLeft0000" x="1315" y="327" width="125" height="127" frameX="-36" frameY="0" frameWidth="161" frameHeight="127"/>
+	<SubTexture name="FoxyLeft0001" x="1540" y="327" width="136" height="127" frameX="-25" frameY="0" frameWidth="161" frameHeight="127"/>
+	<SubTexture name="FoxyLeft0002" x="1776" y="327" width="161" height="127"/>
+</TextureAtlas>

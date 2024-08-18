@@ -1,0 +1,32 @@
+{
+	"storyName": "Um.. Guys?",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "fnaf1demo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Guys",
+			"guys",
+			[
+				160,
+				32,
+				240
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "IsThatFreddyFazbear"
+}

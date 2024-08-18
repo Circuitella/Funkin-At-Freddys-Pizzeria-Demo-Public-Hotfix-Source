@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNAFMenuAssets.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="credits idle0000" x="0" y="0" width="637" height="689"/>
+	<SubTexture name="credits idle0001" x="667" y="0" width="637" height="689"/>
+	<SubTexture name="credits idle0002" x="1334" y="0" width="637" height="689"/>
+	<SubTexture name="credits idle0003" x="2001" y="0" width="637" height="689"/>
+	<SubTexture name="credits select0000" x="2668" y="0" width="637" height="689"/>
+	<SubTexture name="credits select0001" x="3335" y="0" width="637" height="689"/>
+	<SubTexture name="credits select0002" x="0" y="719" width="637" height="689"/>
+	<SubTexture name="credits select0003" x="667" y="719" width="637" height="689"/>
+	<SubTexture name="freeplay idle0000" x="1334" y="719" width="637" height="689"/>
+	<SubTexture name="freeplay idle0001" x="2001" y="719" width="637" height="689"/>
+	<SubTexture name="freeplay idle0002" x="2668" y="719" width="637" height="689"/>
+	<SubTexture name="freeplay idle0003" x="3335" y="719" width="637" height="689"/>
+	<SubTexture name="freeplay selected0000" x="0" y="1438" width="637" height="689"/>
+	<SubTexture name="freeplay selected0001" x="667" y="1438" width="637" height="689"/>
+	<SubTexture name="freeplay selected0002" x="1334" y="1438" width="637" height="689"/>
+	<SubTexture name="freeplay selected0003" x="2001" y="1438" width="637" height="689"/>
+	<SubTexture name="story_mode idle0000" x="2668" y="1438" width="637" height="689"/>
+	<SubTexture name="story_mode idle0001" x="3335" y="1438" width="637" height="689"/>
+	<SubTexture name="story_mode idle0002" x="0" y="2157" width="637" height="689"/>
+	<SubTexture name="story_mode idle0003" x="667" y="2157" width="637" height="689"/>
+	<SubTexture name="story_mode selected0000" x="1334" y="2157" width="637" height="689"/>
+	<SubTexture name="story_mode selected0001" x="2001" y="2157" width="637" height="689"/>
+	<SubTexture name="story_mode selected0002" x="2668" y="2157" width="637" height="689"/>
+	<SubTexture name="story_mode selected0003" x="3335" y="2157" width="637" height="689"/>
+</TextureAtlas>

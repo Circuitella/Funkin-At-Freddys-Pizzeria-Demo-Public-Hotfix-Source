@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-19
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "down-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-2
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "left-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				41
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				37
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "up-alt0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-17
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-17
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "right-alt0",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bonnie",
+	"position": [
+		-60,
+		-190
+	],
+	"healthicon": "bonnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		77,
+		123
+	],
+	"camera_position": [
+		-220,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

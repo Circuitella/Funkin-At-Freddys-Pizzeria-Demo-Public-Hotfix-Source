@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Toiletbonnie.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bonnie0000" x="100" y="100" width="187" height="238"/>
+	<SubTexture name="Bonnie0001" x="387" y="100" width="187" height="238"/>
+</TextureAtlas>
